@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7fb8a457.css",
+    "main.js": "/static/js/main.9765d20d.js",
+    "static/js/787.13aee4be.chunk.js": "/static/js/787.13aee4be.chunk.js",
+    "static/media/misal_pav.jpg": "/static/media/misal_pav.e4bd2092fe425dba4dbe.jpg",
+    "static/media/Biriyani.jpg": "/static/media/Biriyani.55bf74273393fe0b1938.jpg",
+    "static/media/foccaccia.jpg": "/static/media/foccaccia.058cacf2b261c61c08a9.jpg",
+    "static/media/chowmein.jpg": "/static/media/chowmein.a8826055285594dc7be3.jpg",
+    "static/media/sweetandsourpork.jpg": "/static/media/sweetandsourpork.418c14f7fa855911dcb8.jpg",
+    "static/media/chillibeaf.jpg": "/static/media/chillibeaf.685c2b78224a29ef907a.jpg",
+    "static/media/chicken_chettinad.jpg": "/static/media/chicken_chettinad.2067bb0d67cc32391f62.jpg",
+    "static/media/mashroomrisotto.jpg": "/static/media/mashroomrisotto.f98aba368a824aec9b7e.jpg",
+    "static/media/mapotofu.jpg": "/static/media/mapotofu.f887f0ba93b3a1f2762f.jpg",
+    "static/media/logo1.png": "/static/media/logo1.157e17e970b02d1cf24f.png",
+    "index.html": "/index.html",
+    "main.7fb8a457.css.map": "/static/css/main.7fb8a457.css.map",
+    "main.9765d20d.js.map": "/static/js/main.9765d20d.js.map",
+    "787.13aee4be.chunk.js.map": "/static/js/787.13aee4be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fb8a457.css",
+    "static/js/main.9765d20d.js"
+  ]
+}
